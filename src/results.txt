@@ -1,3 +1,15 @@
+Giga Chikadze defeats Edson Barboza at Featherweight via KO/TKO
+Bryan Battle defeats Gilbert Urbina at Middleweight via SUB
+Ricky Turcios defeats Brady Hiestand at Bantamweight via S-DEC
+Daniel Rodriguez defeats Kevin Lee at Welterweight via U-DEC
+Andre Petroski defeats Micheal Gillmore at Middleweight via KO/TKO
+Gerald Meerschaert defeats Makhmud Muradov at Middleweight via SUB
+Abdul Razak Alhassan defeats Alessio Di Chirico at Middleweight via KO/TKO
+Wellington Turman defeats Sam Alvey at Middleweight via S-DEC
+Dustin Jacoby defeats Darren Stewart at Light Heavyweight via KO/TKO
+JJ Aldrich defeats Vanessa Demopoulos at Women's Flyweight via U-DEC
+Pat Sabatini defeats Jamall Emmers at Featherweight via SUB
+Mana Martinez defeats Guido Cannetti at Bantamweight via S-DEC
 Jared Cannonier defeats Kelvin Gastelum at Middleweight via U-DEC
 Mark Madsen defeats Clay Guida at Lightweight via S-DEC
 Parker Porter defeats Chase Sherman at Heavyweight via U-DEC
@@ -29,7 +41,7 @@ Jared Gooden defeats Niklas Stolze at Welterweight via KO/TKO
 Melsik Baghdasaryan defeats Collin Anglin at Featherweight via KO/TKO
 Jason Witt defeats Bryan Barberena at Welterweight via M-DEC
 Chris Gruetzemacher defeats Rafa Garcia at Lightweight via U-DEC
-Danny Chavez defeats Kai Kamaka at Featherweight via M-DEC
+Draw between Danny Chavez and Kai Kamaka at Featherweight via M-DEC
 Jinh Yu Frey defeats Ashley Yoder at Women's Strawweight via U-DEC
 Zarrukh Adashev defeats Ryan Benoit at Flyweight via U-DEC
 Phil Rowe defeats Orion Cosce at Welterweight via KO/TKO
@@ -153,7 +165,7 @@ Junyong Park defeats Tafon Nchukwi at Middleweight via M-DEC
 Carlston Harris defeats Christian Aguilera at Welterweight via SUB
 Jiri Prochazka defeats Dominick Reyes at Light Heavyweight via KO/TKO
 Giga Chikadze defeats Cub Swanson at Featherweight via KO/TKO
-Ion Cutelaba defeats Dustin Jacoby at Light Heavyweight via S-DEC
+Draw between Ion Cutelaba and Dustin Jacoby at Light Heavyweight via S-DEC
 Sean Strickland defeats Krzysztof Jotko at Middleweight via U-DEC
 Merab Dvalishvili defeats Cody Stamann at Bantamweight via U-DEC
 Luana Pinheiro defeats Randa Markos at Women's Strawweight via DQ
@@ -248,7 +260,7 @@ Uros Medic defeats Aalon Cruz at Lightweight via KO/TKO
 Trevin Jones defeats Mario Bautista at Bantamweight via KO/TKO
 Ciryl Gane defeats Jairzinho Rozenstruik at Heavyweight via U-DEC
 Magomed Ankalaev defeats Nikita Krylov at Light Heavyweight via U-DEC
-Montana De La Rosa defeats Mayra Bueno Silva at Women's Flyweight via M-DEC
+Draw between Montana De La Rosa and Mayra Bueno Silva at Women's Flyweight via M-DEC
 Pedro Munhoz defeats Jimmie Rivera at Bantamweight via U-DEC
 Alex Caceres defeats Kevin Croom at Featherweight via U-DEC
 Thiago Moises defeats Alexander Hernandez at Lightweight via U-DEC
@@ -336,7 +348,7 @@ Taila Santos defeats Gillian Robertson at Women's Flyweight via U-DEC
 Tafon Nchukwi defeats Jamie Pickett at Middleweight via U-DEC
 Jimmy Flick defeats Cody Durden at Flyweight via SUB
 Christos Giagos defeats Carlton Minus at Catch Weight via U-DEC
-Deiveson Figueiredo defeats Brandon Moreno at Flyweight via M-DEC
+Draw between Deiveson Figueiredo and Brandon Moreno at Flyweight via M-DEC
 Charles Oliveira defeats Tony Ferguson at Lightweight via U-DEC
 Mackenzie Dern defeats Virna Jandiroba at Women's Strawweight via U-DEC
 Kevin Holland defeats Jacare Souza at Middleweight via KO/TKO
@@ -415,7 +427,7 @@ Magomed Ankalaev defeats Ion Cutelaba at Light Heavyweight via KO/TKO
 Tai Tuivasa defeats Stefan Struve at Heavyweight via KO/TKO
 Casey Kenney defeats Nathaniel Wood at Catch Weight via U-DEC
 Shavkat Rakhmonov defeats Alex Oliveira at Welterweight via SUB
-Da-Un Jung defeats Sam Alvey at Light Heavyweight via S-DEC
+Draw between Da-Un Jung and Sam Alvey at Light Heavyweight via S-DEC
 Miranda Maverick defeats Liana Jojua at Women's Flyweight via KO/TKO
 Joel Alvarez defeats Alexander Yakovlev at Lightweight via SUB
 Brian Ortega defeats Chan Sung Jung at Featherweight via U-DEC
@@ -448,7 +460,7 @@ Germaine de Randamie defeats Julianna Pena at Women's Bantamweight via SUB
 Kyler Phillips defeats Cameron Else at Bantamweight via KO/TKO
 Dusko Todorovic defeats Dequan Townsend at Middleweight via KO/TKO
 Carlos Condit defeats Court McGee at Welterweight via U-DEC
-Charles Jourdain defeats Josh Culibao at Featherweight via S-DEC
+Draw between Charles Jourdain and Josh Culibao at Featherweight via S-DEC
 Nassourdine Imavov defeats Jordan Williams at Middleweight via U-DEC
 Loma Lookboonmee defeats Jinh Yu Frey at Women's Strawweight via U-DEC
 Casey Kenney defeats Heili Alateng at Bantamweight via U-DEC
@@ -546,7 +558,7 @@ Bobby Green defeats Lando Vannata at Lightweight via U-DEC
 Jonathan Martinez defeats Frankie Saenz at Bantamweight via KO/TKO
 Nate Maness defeats Johnny Munoz at Featherweight via U-DEC
 Jamall Emmers defeats Vince Cachero at Featherweight via U-DEC
-Chris Gutierrez defeats Cody Durden at Bantamweight via U-DEC
+Draw between Chris Gutierrez and Cody Durden at Bantamweight via U-DEC
 Robert Whittaker defeats Darren Till at Middleweight via U-DEC
 Mauricio Rua defeats Rogerio Nogueira at Light Heavyweight via S-DEC
 Fabricio Werdum defeats Alexander Gustafsson at Heavyweight via SUB
@@ -693,7 +705,7 @@ Francisco Trinaldo defeats John Makdessi at Lightweight via U-DEC
 Brandon Moreno defeats Jussier Formiga at Flyweight via U-DEC
 Amanda Ribas defeats Randa Markos at Women's Strawweight via U-DEC
 Elizeu Zaleski dos Santos defeats Aleksei Kunchenko at Welterweight via U-DEC
-Rani Yahya defeats Enrique Barzola at Bantamweight via M-DEC
+Draw between Rani Yahya and Enrique Barzola at Bantamweight via M-DEC
 Maryna Moroz defeats Mayra Bueno Silva at Women's Flyweight via U-DEC
 David Dvorak defeats Bruno Silva at Flyweight via U-DEC
 Bea Malecki defeats Veronica Macedo at Women's Bantamweight via U-DEC
@@ -807,10 +819,10 @@ Brandon Moreno defeats Kai Kara-France at Flyweight via U-DEC
 Jessica Eye defeats Viviane Araujo at Women's Flyweight via U-DEC
 Punahele Soriano defeats Oskar Piechota at Middleweight via KO/TKO
 Jairzinho Rozenstruik defeats Alistair Overeem at Heavyweight via KO/TKO
-Marina Rodriguez defeats Cynthia Calvillo at Women's Strawweight via M-DEC
+Draw between Marina Rodriguez and Cynthia Calvillo at Women's Strawweight via M-DEC
 Ben Rothwell defeats Stefan Struve at Heavyweight via KO/TKO
 Aspen Ladd defeats Yana Kunitskaya at Women's Bantamweight via KO/TKO
-Cody Stamann defeats Song Yadong at Bantamweight via M-DEC
+Draw between Cody Stamann and Song Yadong at Bantamweight via M-DEC
 Rob Font defeats Ricky Simon at Bantamweight via U-DEC
 Tim Means defeats Thiago Alves at Welterweight via SUB
 Billy Quarantillo defeats Jacob Kilburn at Featherweight via SUB
@@ -819,7 +831,7 @@ Joe Solecki defeats Matt Wiman at Lightweight via U-DEC
 Virna Jandiroba defeats Mallory Martin at Women's Strawweight via SUB
 Makhmud Muradov defeats Trevor Smith at Middleweight via KO/TKO
 Jan Blachowicz defeats Jacare Souza at Light Heavyweight via S-DEC
-Mauricio Rua defeats Paul Craig at Light Heavyweight via S-DEC
+Draw between Mauricio Rua and Paul Craig at Light Heavyweight via S-DEC
 Charles Oliveira defeats Jared Gordon at Lightweight via KO/TKO
 Andre Muniz defeats Antonio Arroyo at Middleweight via U-DEC
 Wellington Turman defeats Markus Perez at Middleweight via U-DEC
@@ -919,7 +931,7 @@ Marc Diakiese defeats Lando Vannata at Lightweight via U-DEC
 Jack Shore defeats Nohelin Hernandez at Bantamweight via SUB
 Yair Rodriguez defeats Jeremy Stephens at Featherweight via CNC
 Carla Esparza defeats Alexa Grasso at Women's Strawweight via M-DEC
-Brandon Moreno defeats Askar Askarov at Flyweight via S-DEC
+Draw between Brandon Moreno and Askar Askarov at Flyweight via S-DEC
 Irene Aldana defeats Vanessa Melo at Women's Bantamweight via U-DEC
 Steven Peterson defeats Martin Bravo at Featherweight via KO/TKO
 Jose Quinonez defeats Carlos Huachin at Bantamweight via U-DEC
@@ -947,7 +959,7 @@ Islam Makhachev defeats Davi Ramos at Lightweight via U-DEC
 Curtis Blaydes defeats Shamil Abdurakhimov at Heavyweight via KO/TKO
 Diego Ferreira defeats Mairbek Taisumov at Lightweight via U-DEC
 Joanne Calderwood defeats Andrea Lee at Women's Flyweight via S-DEC
-Zubaira Tukhugov defeats Lerone Murphy at Featherweight via S-DEC
+Draw between Zubaira Tukhugov and Lerone Murphy at Featherweight via S-DEC
 Sarah Moras defeats Liana Jojua at Women's Bantamweight via KO/TKO
 Ottman Azaitar defeats Teemu Packalen at Lightweight via KO/TKO
 Belal Muhammad defeats Takashi Sato at Welterweight via SUB
@@ -1404,7 +1416,7 @@ Jordan Rinaldi defeats Jason Knight at Featherweight via U-DEC
 Sijara Eubanks defeats Roxanne Modafferi at Women's Flyweight via U-DEC
 Sheymon Moraes defeats Julio Arce at Featherweight via S-DEC
 Lyman Good defeats Ben Saunders at Welterweight via KO/TKO
-Matt Frevola defeats Lando Vannata at Lightweight via M-DEC
+Draw between Matt Frevola and Lando Vannata at Lightweight via M-DEC
 Shane Burgos defeats Kurt Holobaugh at Featherweight via SUB
 Marcos Rogerio de Lima defeats Adam Wieczorek at Heavyweight via U-DEC
 Anthony Smith defeats Volkan Oezdemir at Light Heavyweight via SUB
@@ -1436,7 +1448,7 @@ Thiago Santos defeats Eryk Anders at Light Heavyweight via KO/TKO
 Alex Oliveira defeats Carlo Pedersoli Jr. at Welterweight via KO/TKO
 Rogerio Nogueira defeats Sam Alvey at Light Heavyweight via KO/TKO
 Andre Ewell defeats Renan Barao at Bantamweight via S-DEC
-Randa Markos defeats Marina Rodriguez at Women's Strawweight via M-DEC
+Draw between Randa Markos and Marina Rodriguez at Women's Strawweight via M-DEC
 Charles Oliveira defeats Christos Giagos at Lightweight via SUB
 Francisco Trinaldo defeats Evan Dunham at Lightweight via KO/TKO
 Ryan Spann defeats Luis Henrique at Light Heavyweight via U-DEC
@@ -1777,7 +1789,7 @@ Carla Esparza defeats Cynthia Calvillo at Women's Strawweight via U-DEC
 Neil Magny defeats Carlos Condit at Welterweight via U-DEC
 Khalil Rountree Jr. defeats Michal Oleksiejczuk at Light Heavyweight via Overturned
 Myles Jury defeats Ricky Glenn at Featherweight via U-DEC
-Marvin Vettori defeats Omari Akhmedov at Middleweight via M-DEC
+Draw between Marvin Vettori and Omari Akhmedov at Middleweight via M-DEC
 Matheus Nicolau defeats Louis Smolka at Flyweight via U-DEC
 Tim Elliott defeats Mark De La Rosa at Bantamweight via SUB
 Rafael Dos Anjos defeats Robbie Lawler at Welterweight via U-DEC
@@ -1821,7 +1833,7 @@ Nicco Montano defeats Roxanne Modafferi at Women's Flyweight via U-DEC
 Sean O'Malley defeats Terrion Ware at Bantamweight via U-DEC
 Lauren Murphy defeats Barb Honchak at Women's Flyweight via S-DEC
 Gerald Meerschaert defeats Eric Spicely at Middleweight via KO/TKO
-DeAnna Bennett defeats Melinda Fabian at Women's Flyweight via M-DEC
+Draw between DeAnna Bennett and Melinda Fabian at Women's Flyweight via M-DEC
 Brett Johns defeats Joe Soto at Bantamweight via SUB
 Montana De La Rosa defeats Christina Marks at Women's Flyweight via SUB
 Ryan Janes defeats Andrew Sanchez at Middleweight via KO/TKO
@@ -1904,9 +1916,9 @@ Tony Ferguson defeats Kevin Lee at Lightweight via SUB
 Demetrious Johnson defeats Ray Borg at Flyweight via SUB
 Fabricio Werdum defeats Walt Harris at Heavyweight via SUB
 Mara Romero Borella defeats Kalindra Faria at Women's Flyweight via SUB
-Beneil Dariush defeats Evan Dunham at Lightweight via M-DEC
+Draw between Beneil Dariush and Evan Dunham at Lightweight via M-DEC
 Cody Stamann defeats Tom Duquesnoy at Bantamweight via S-DEC
-Lando Vannata defeats Bobby Green at Lightweight via S-DEC
+Draw between Lando Vannata and Bobby Green at Lightweight via S-DEC
 Poliana Botelho defeats Pearl Gonzalez at Women's Strawweight via U-DEC
 Matt Schnell defeats Marco Beltran at Flyweight via U-DEC
 John Moraga defeats Bibulatov Magomed at Flyweight via KO/TKO
@@ -2151,7 +2163,7 @@ Vitor Belfort defeats Kelvin Gastelum at Middleweight via Overturned
 Mauricio Rua defeats Gian Villante at Light Heavyweight via KO/TKO
 Edson Barboza defeats Beneil Dariush at Lightweight via KO/TKO
 Ray Borg defeats Jussier Formiga at Flyweight via U-DEC
-Bethe Correia defeats Marion Reneau at Women's Bantamweight via M-DEC
+Draw between Bethe Correia and Marion Reneau at Women's Bantamweight via M-DEC
 Alex Oliveira defeats Tim Means at Welterweight via SUB
 Kevin Lee defeats Francisco Trinaldo at Lightweight via SUB
 Sergio Moraes defeats Davi Ramos at Welterweight via U-DEC
@@ -2325,7 +2337,7 @@ Marion Reneau defeats Milana Dudieva at Women's Bantamweight via KO/TKO
 Brett Johns defeats Kwan Ho Kwak at Bantamweight via U-DEC
 Abdul Razak Alhassan defeats Charlie Ward at Welterweight via KO/TKO
 Conor McGregor defeats Eddie Alvarez at Lightweight via KO/TKO
-Tyron Woodley defeats Stephen Thompson at Welterweight via M-DEC
+Draw between Tyron Woodley and Stephen Thompson at Welterweight via M-DEC
 Joanna Jedrzejczyk defeats Karolina Kowalkiewicz at Women's Strawweight via U-DEC
 Yoel Romero defeats Chris Weidman at Middleweight via KO/TKO
 Raquel Pennington defeats Miesha Tate at Women's Bantamweight via U-DEC
@@ -2395,7 +2407,7 @@ Belal Muhammad defeats Augusto Montano at Welterweight via KO/TKO
 Antonio Carlos Junior defeats Leonardo Guimaraes at Middleweight via SUB
 Jose Quinonez defeats Joey Gomez at Bantamweight via U-DEC
 Randy Brown defeats Erick Montano at Welterweight via SUB
-Alejandro Perez defeats Albert Morales at Bantamweight via M-DEC
+Draw between Alejandro Perez and Albert Morales at Bantamweight via M-DEC
 Stipe Miocic defeats Alistair Overeem at Heavyweight via KO/TKO
 Fabricio Werdum defeats Travis Browne at Heavyweight via U-DEC
 Mickey Gall defeats CM Punk at Welterweight via SUB
@@ -2414,7 +2426,7 @@ Jessin Ayari defeats Jim Wallhead at Welterweight via S-DEC
 Peter Sobotta defeats Nicolas Dalby at Welterweight via U-DEC
 Ashlee Evans-Smith defeats Veronica Macedo at Women's Bantamweight via KO/TKO
 Taylor Lapilus defeats Leandro Issa at Bantamweight via U-DEC
-Jarjis Danho defeats Christian Colombo at Heavyweight via M-DEC
+Draw between Jarjis Danho and Christian Colombo at Heavyweight via M-DEC
 Jack Hermansson defeats Scott Askham at Middleweight via U-DEC
 Rustam Khabilov defeats Leandro Silva at Lightweight via U-DEC
 Demian Maia defeats Carlos Condit at Welterweight via SUB
@@ -2460,7 +2472,7 @@ Nikita Krylov defeats Ed Herman at Light Heavyweight via KO/TKO
 Jorge Masvidal defeats Ross Pearson at Welterweight via U-DEC
 Anthony Hamilton defeats Damian Grabowski at Heavyweight via KO/TKO
 Wilson Reis defeats Hector Sandoval at Flyweight via SUB
-Michael Graves defeats Bojan Velickovic at Welterweight via M-DEC
+Draw between Michael Graves and Bojan Velickovic at Welterweight via M-DEC
 Damien Brown defeats Cesar Arzamendia at Lightweight via KO/TKO
 Valentina Shevchenko defeats Holly Holm at Women's Bantamweight via U-DEC
 Edson Barboza defeats Gilbert Melendez at Lightweight via U-DEC
@@ -2545,7 +2557,7 @@ Jessica Andrade defeats Jessica Penne at Women's Strawweight via KO/TKO
 Alex Caceres defeats Cole Miller at Featherweight via U-DEC
 Sean Strickland defeats Tom Breese at Welterweight via S-DEC
 Henrique da Silva defeats Jonathan Wilson at Light Heavyweight via KO/TKO
-Kevin Casey defeats Elvis Mutapcic at Middleweight via S-DEC
+Draw between Kevin Casey and Elvis Mutapcic at Middleweight via S-DEC
 Marco Polo Reyes defeats Dong Hyun Ma at Lightweight via KO/TKO
 Cody Garbrandt defeats Thomas Almeida at Bantamweight via KO/TKO
 Jeremy Stephens defeats Renan Barao at Featherweight via U-DEC
@@ -2569,7 +2581,7 @@ Thiago Santos defeats Nate Marquardt at Middleweight via KO/TKO
 Francisco Trinaldo defeats Yancy Medeiros at Lightweight via U-DEC
 John Lineker defeats Rob Font at Bantamweight via U-DEC
 Rogerio Nogueira defeats Patrick Cummins at Light Heavyweight via KO/TKO
-Sergio Moraes defeats Luan Chagas at Welterweight via S-DEC
+Draw between Sergio Moraes and Luan Chagas at Welterweight via S-DEC
 Renato Moicano defeats Zubaira Tukhugov at Featherweight via S-DEC
 Alistair Overeem defeats Andrei Arlovski at Heavyweight via KO/TKO
 Stefan Struve defeats Antonio Silva at Heavyweight via KO/TKO
@@ -2693,7 +2705,7 @@ Wilson Reis defeats Dustin Ortiz at Flyweight via U-DEC
 Alexander Yakovlev defeats George Sullivan at Welterweight via KO/TKO
 Alex Caceres defeats Masio Fullen at Featherweight via U-DEC
 Randy Brown defeats Matt Dwyer at Welterweight via U-DEC
-Damon Jackson defeats Levan Makashvili at Featherweight via M-DEC
+Draw between Damon Jackson and Levan Makashvili at Featherweight via M-DEC
 Anthony Rocco Martin defeats Felipe Olivieri at Lightweight via SUB
 Dominick Cruz defeats TJ Dillashaw at Bantamweight via S-DEC
 Eddie Alvarez defeats Anthony Pettis at Lightweight via S-DEC
@@ -2816,10 +2828,10 @@ Thiago Tavares defeats Clay Guida at Featherweight via SUB
 Chas Skelly defeats Edimilson Souza at Featherweight via SUB
 Viscardi Andrade defeats Gasan Umalatov at Welterweight via U-DEC
 Jimmie Rivera defeats Pedro Munhoz at Bantamweight via S-DEC
-Matheus Nicolau defeats Bruno Rodrigues at Bantamweight via SUB
+Matheus Nicolau defeats Bruno Korea at Bantamweight via SUB
 Louis Smolka defeats Paddy Holohan at Flyweight via SUB
 Norman Parke defeats Reza Madadi at Lightweight via U-DEC
-Nicolas Dalby defeats Darren Till at Welterweight via M-DEC
+Draw between Nicolas Dalby and Darren Till at Welterweight via M-DEC
 Neil Seery defeats Jon Delos Reyes at Flyweight via SUB
 Stevie Ray defeats Mickael Lebout at Lightweight via U-DEC
 Aisling Daly defeats Ericka Almeida at Women's Strawweight via U-DEC
@@ -2844,7 +2856,7 @@ Uriah Hall defeats Gegard Mousasi at Middleweight via KO/TKO
 Kyoji Horiguchi defeats Chico Camus at Flyweight via U-DEC
 Takeya Mizugaki defeats George Roop at Bantamweight via U-DEC
 Diego Brandao defeats Katsunori Kikuno at Featherweight via KO/TKO
-Mizuto Hirota defeats Teruto Ishihara at Featherweight via S-DEC
+Draw between Mizuto Hirota and Teruto Ishihara at Featherweight via S-DEC
 Keita Nakamura defeats Li Jingliang at Welterweight via SUB
 Nick Hein defeats Yusuke Kasuya at Lightweight via U-DEC
 Kajan Johnson defeats Naoyuki Kotani at Lightweight via U-DEC
@@ -3589,7 +3601,7 @@ Jim Alers defeats Alan Omer at Featherweight via S-DEC
 Rani Yahya defeats Johnny Bedford at Bantamweight via CNC
 Dan Henderson defeats Mauricio Rua at Light Heavyweight via KO/TKO
 CB Dollaway defeats Cezar Ferreira at Middleweight via KO/TKO
-Leonardo Santos defeats Norman Parke at Lightweight via M-DEC
+Draw between Leonardo Santos and Norman Parke at Lightweight via M-DEC
 Fabio Maldonado defeats Gian Villante at Light Heavyweight via U-DEC
 Michel Prazeres defeats Mairbek Taisumov at Lightweight via U-DEC
 Rony Jason defeats Steven Siler at Featherweight via KO/TKO
@@ -3718,7 +3730,7 @@ Zach Makovsky defeats Scott Jorgensen at Flyweight via U-DEC
 Sam Stout defeats Cody McKenzie at Lightweight via U-DEC
 Abel Trujillo defeats Roger Bowling at Lightweight via KO/TKO
 Alptekin Ozkilic defeats Darren Uyenoyama at Flyweight via S-DEC
-Mark Hunt defeats Antonio Silva at Heavyweight via M-DEC
+Draw between Mark Hunt and Antonio Silva at Heavyweight via M-DEC
 Mauricio Rua defeats James Te Huna at Light Heavyweight via KO/TKO
 Ryan Bader defeats Anthony Perosh at Light Heavyweight via U-DEC
 Soa Palelei defeats Pat Barry at Heavyweight via KO/TKO
@@ -4255,7 +4267,7 @@ Francisco Trinaldo defeats Delson Heleno at Middleweight via KO/TKO
 Hugo Viana defeats John Teixeira at Featherweight via S-DEC
 Thiago Perpetuo defeats Leonardo Mafra at Middleweight via KO/TKO
 Marcos Vinicius defeats Wagner Campos at Featherweight via KO/TKO
-Felipe Arantes defeats Milton Vieira at Featherweight via S-DEC
+Draw between Felipe Arantes and Milton Vieira at Featherweight via S-DEC
 Gray Maynard defeats Clay Guida at Lightweight via S-DEC
 Sam Stout defeats Spencer Fisher at Lightweight via U-DEC
 Brian Ebersole defeats TJ Waldburger at Welterweight via U-DEC
@@ -4352,7 +4364,7 @@ Simeon Thoresen defeats Besam Yousef at Welterweight via SUB
 Jason Young defeats Eric Wisely at Featherweight via U-DEC
 Martin Kampmann defeats Thiago Alves at Welterweight via SUB
 Joseph Benavidez defeats Yasuhiro Urushitani at Flyweight via KO/TKO
-Demetrious Johnson defeats Ian McCall at Flyweight via M-DEC
+Draw between Demetrious Johnson and Ian McCall at Flyweight via M-DEC
 Constantinos Philippou defeats Court McGee at Middleweight via U-DEC
 James Te Huna defeats Aaron Rosa at Light Heavyweight via KO/TKO
 Anthony Perosh defeats Nick Penner at Light Heavyweight via KO/TKO
@@ -4678,7 +4690,7 @@ Takeya Mizugaki defeats Reuben Duran at Bantamweight via S-DEC
 Dongi Yang defeats Rob Kimmons at Middleweight via KO/TKO
 Rousimar Palhares defeats David Branch at Middleweight via SUB
 Igor Pokrajac defeats Todd Brown at Light Heavyweight via KO/TKO
-BJ Penn defeats Jon Fitch at Welterweight via M-DEC
+Draw between BJ Penn and Jon Fitch at Welterweight via M-DEC
 Michael Bisping defeats Jorge Rivera at Middleweight via KO/TKO
 Dennis Siver defeats George Sotiropoulos at Lightweight via U-DEC
 Brian Ebersole defeats Chris Lytle at Welterweight via U-DEC
@@ -4712,7 +4724,7 @@ Rani Yahya defeats Mike Brown at Featherweight via U-DEC
 Waylon Lowe defeats Willamy Freire at Lightweight via U-DEC
 Charlie Brenneman defeats Amilcar Alves at Welterweight via U-DEC
 Chris Cariaso defeats Will Campuzano at Bantamweight via U-DEC
-Frankie Edgar defeats Gray Maynard at Lightweight via S-DEC
+Draw between Frankie Edgar and Gray Maynard at Lightweight via S-DEC
 Brian Stann defeats Chris Leben at Middleweight via KO/TKO
 Brandon Vera defeats Thiago Silva at Light Heavyweight via Overturned
 Dong Hyun Kim defeats Nate Diaz at Welterweight via U-DEC
@@ -4730,7 +4742,7 @@ Mac Danzig defeats Joe Stevenson at Lightweight via KO/TKO
 Thiago Alves defeats John Howard at Welterweight via U-DEC
 Dan Miller defeats Joe Doerksen at Middleweight via S-DEC
 Mark Bocek defeats Dustin Hazelett at Lightweight via SUB
-Jesse Bongfeldt defeats Rafael Natal at Middleweight via M-DEC
+Draw between Jesse Bongfeldt and Rafael Natal at Middleweight via M-DEC
 Sean Pierson defeats Matthew Riddle at Welterweight via U-DEC
 Ricardo Almeida defeats TJ Grant at Welterweight via U-DEC
 John Makdessi defeats Pat Audinwood at Lightweight via U-DEC
@@ -4780,7 +4792,7 @@ Jon Madsen defeats Gilbert Yvel at Heavyweight via KO/TKO
 Michael Bisping defeats Yoshihiro Akiyama at Middleweight via U-DEC
 Carlos Condit defeats Dan Hardy at Welterweight via KO/TKO
 Mike Pyle defeats John Hathaway at Welterweight via U-DEC
-Cheick Kongo defeats Travis Browne at Heavyweight via U-DEC
+Draw between Cheick Kongo and Travis Browne at Heavyweight via U-DEC
 Claude Patrick defeats James Wilks at Welterweight via U-DEC
 Alexander Gustafsson defeats Cyrille Diabate at Light Heavyweight via SUB
 Rob Broughton defeats Vinicius Queiroz at Heavyweight via SUB
@@ -4961,7 +4973,7 @@ Aaron Simpson defeats Tom Lawlor at Middleweight via S-DEC
 Amir Sadollah defeats Brad Blackburn at Welterweight via U-DEC
 Chris Leben defeats Jay Silva at Middleweight via U-DEC
 Rick Story defeats Jesse Lennox at Welterweight via S-DEC
-Thiago Tavares defeats Nik Lentz at Lightweight via M-DEC
+Draw between Thiago Tavares and Nik Lentz at Lightweight via M-DEC
 Rory MacDonald defeats Mike Guymon at Welterweight via SUB
 Rafael Dos Anjos defeats Kyle Bradley at Lightweight via U-DEC
 Gerald Harris defeats John Salter at Middleweight via KO/TKO
@@ -5005,7 +5017,7 @@ Amir Sadollah defeats Phil Baroni at Welterweight via U-DEC
 Ben Saunders defeats Marcus Davis at Welterweight via KO/TKO
 Kendall Grove defeats Jake Rosholt at Middleweight via SUB
 Brian Foster defeats Brock Larson at Welterweight via KO/TKO
-Caol Uno defeats Fabricio Camoes at Lightweight via M-DEC
+Draw between Caol Uno and Fabricio Camoes at Lightweight via M-DEC
 George Sotiropoulos defeats Jason Dent at Lightweight via SUB
 Randy Couture defeats Brandon Vera at Light Heavyweight via U-DEC
 Dan Hardy defeats Mike Swick at Welterweight via U-DEC
@@ -5467,7 +5479,7 @@ Thales Leites defeats Ryan Jensen at Middleweight via SUB
 Clay Guida defeats Marcus Aurelio at Lightweight via S-DEC
 Kenny Florian defeats Alvin Robinson at Lightweight via KO/TKO
 Anderson Silva defeats Nate Marquardt at Middleweight via KO/TKO
-Rashad Evans defeats Tito Ortiz at Light Heavyweight via U-DEC
+Draw between Rashad Evans and Tito Ortiz at Light Heavyweight via U-DEC
 Sean Sherk defeats Hermes Franca at Lightweight via U-DEC
 Antonio Rodrigo Nogueira defeats Heath Herring at Heavyweight via U-DEC
 Stephan Bonnar defeats Mike Nickels at Light Heavyweight via SUB
@@ -5860,7 +5872,7 @@ Hermes Franca defeats Caol Uno at Lightweight via KO/TKO
 Randy Couture defeats Chuck Liddell at Light Heavyweight via KO/TKO
 Kimo Leopoldo defeats David Abbott at Heavyweight via SUB
 Vitor Belfort defeats Marvin Eastman at Light Heavyweight via KO/TKO
-Vernon White defeats Ian Freeman at Heavyweight via S-DEC
+Draw between Vernon White and Ian Freeman at Heavyweight via S-DEC
 Frank Mir defeats Wes Sims at Heavyweight via DQ
 Yves Edwards defeats Eddie Ruiz at Lightweight via U-DEC
 Falaniko Vitale defeats Matt Lindland at Middleweight via KO/TKO
@@ -5875,7 +5887,7 @@ Hermes Franca defeats Richard Crunkilton at Lightweight via U-DEC
 David Loiseau defeats Mark Weir at Middleweight via KO/TKO
 Tim Sylvia defeats Ricco Rodriguez at Heavyweight via KO/TKO
 Frank Mir defeats David Abbott at Heavyweight via SUB
-BJ Penn defeats Caol Uno at Lightweight via S-DEC
+Draw between BJ Penn and Caol Uno at Lightweight via S-DEC
 Matt Lindland defeats Phil Baroni at Middleweight via U-DEC
 Vladimir Matyushenko defeats Pedro Rizzo at Heavyweight via U-DEC
 Din Thomas defeats Matt Serra at Lightweight via S-DEC
@@ -5995,7 +6007,7 @@ Fabiano Iha defeats Laverne Clark at Welterweight via SUB
 Yuki Kondo defeats Alexandre Dantas at Middleweight via KO/TKO
 Ian Freeman defeats Tedd Williams at Heavyweight via U-DEC
 Jeff Monson defeats Tim Lajcik at Heavyweight via U-DEC
-Brad Gumm defeats CJ Fernandes at Welterweight via U-DEC
+Draw between Brad Gumm and CJ Fernandes at Welterweight via U-DEC
 Kevin Randleman defeats Pedro Rizzo at Heavyweight via U-DEC
 Tyrone Roberts defeats David Dodd at Middleweight via U-DEC
 Pat Miletich defeats John Alessio at Welterweight via SUB
@@ -6025,13 +6037,13 @@ Eugene Jackson defeats Keiichiro Yamamiya at Middleweight via KO/TKO
 Kenichi Yamamoto defeats Daiju Takase at Open Weight via U-DEC
 Katsuhisa Fujii defeats Masutatsu Yano at Open Weight via KO/TKO
 Frank Shamrock defeats Tito Ortiz at Middleweight via KO/TKO
-Tim Lajcik defeats Ron Waterman at Heavyweight via U-DEC
+Draw between Tim Lajcik and Ron Waterman at Heavyweight via U-DEC
 Jeremy Horn defeats Jason Godsey at Heavyweight via SUB
 Brad Kohler defeats Steve Judson at Heavyweight via KO/TKO
 Chuck Liddell defeats Paul Jones at Middleweight via KO/TKO
 Matt Hughes defeats Valeri Ignatov at Lightweight via U-DEC
 John Lewis defeats Lowell Anderson at Middleweight via KO/TKO
-Jens Pulver defeats Alfonso Alcarez at Lightweight via M-DEC
+Draw between Jens Pulver and Alfonso Alcarez at Lightweight via M-DEC
 Maurice Smith defeats Marco Ruas at Heavyweight via KO/TKO
 Pat Miletich defeats Andre Pederneiras at Lightweight via KO/TKO
 Jeremy Horn defeats Daiju Takase at Middleweight via KO/TKO
@@ -6180,7 +6192,7 @@ David Abbott defeats Steve Jennum at Open Weight via SUB
 Mark Hall defeats Trent Jenkins at Open Weight via SUB
 Joe Charles defeats Scott Bessac at Open Weight via SUB
 Marco Ruas defeats Paul Varelans at Open Weight via KO/TKO
-Ken Shamrock defeats Oleg Taktarov at Open Weight via Other
+Draw between Ken Shamrock and Oleg Taktarov at Open Weight via Other
 Marco Ruas defeats Remco Pardoel at Open Weight via SUB
 Paul Varelans defeats Mark Hall at Open Weight via SUB
 Marco Ruas defeats Larry Cureton at Open Weight via SUB
@@ -6201,7 +6213,7 @@ David Abbott defeats John Matua at Open Weight via KO/TKO
 Anthony Macias defeats He-Man Gipson at Open Weight via KO/TKO
 Joel Sutton defeats Jack McGlaughlin at Open Weight via KO/TKO
 Dan Severn defeats Dave Beneteau at Open Weight via SUB
-Ken Shamrock defeats Royce Gracie at Open Weight via Other
+Draw between Ken Shamrock and Royce Gracie at Open Weight via Other
 Dan Severn defeats Oleg Taktarov at Open Weight via KO/TKO
 Dave Beneteau defeats Todd Medina at Open Weight via KO/TKO
 Dan Severn defeats Joe Charles at Open Weight via SUB
